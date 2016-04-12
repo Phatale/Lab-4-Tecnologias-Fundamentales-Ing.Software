@@ -1,5 +1,0 @@
-src\Textos\Archivo1.txt
-src\Textos\Archivo2.txt
-src\Textos\Archivo3.txt
-src\Textos\Archivo4.txt
-src\Textos\Archivo5.txt
